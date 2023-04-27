@@ -76,6 +76,8 @@ for i in range(0,9):
 
 
 ### Global Thresholding!
+![download](https://user-images.githubusercontent.com/75235369/234794849-04c40827-1ddb-4d57-a98f-e48ed3ea38c8.png)
+![download](https://user-images.githubusercontent.com/75235369/234794940-7a5b8317-c25e-4f33-97b9-5b993ff1db3d.png)
 
 
 
