@@ -76,17 +76,23 @@ for i in range(0,9):
 
 
 ### Global Thresholding!
+![download](https://user-images.githubusercontent.com/75235369/234796979-cf360597-f295-4e2e-ac94-e528164e699f.png)
+![download](https://user-images.githubusercontent.com/75235369/234797534-e3294914-1a45-4aca-8aac-df94a4819ba8.png)
+
 ![download](https://user-images.githubusercontent.com/75235369/234794849-04c40827-1ddb-4d57-a98f-e48ed3ea38c8.png)
 ![download](https://user-images.githubusercontent.com/75235369/234794940-7a5b8317-c25e-4f33-97b9-5b993ff1db3d.png)
+![download](https://user-images.githubusercontent.com/75235369/234796920-9bb888cb-2197-400c-a218-080d1baa6c20.png)
 
 
 
 
 ### Adaptive Thresholding
 
+![Uploading download.png…]()
 
 
 ### Optimum Global Thesholding using Otsu's Method
+![Uploading download.png…]()
 
 
 
