@@ -88,13 +88,8 @@ for i in range(0,9):
 
 ### Adaptive Thresholding
 
-![Uploading download.png…]()
-
-
-### Optimum Global Thesholding using Otsu's Method
-![Uploading download.png…]()
-
-
+![download](https://github.com/adhil284/Thresholding/assets/75235369/8b566656-c61b-4411-a636-ef06e91fe4ed)
+![download](https://github.com/adhil284/Thresholding/assets/75235369/1ce7ac3a-0e4d-45bf-9fd2-8d9f1a78d9ff)
 
 
 ## RESULT:
